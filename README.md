@@ -23,7 +23,7 @@ This is a simple currency converter application built using React, Tailwind CSS,
 To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine:
-`git clone [https://github.com/your-username/currency-converter-app.git](https://github.com/ksoban20/currency-converter)`
+`git clone https://github.com/ksoban20/currency-converter.git`
 Navigate to the project directory:
 `cd currency-converter-app`
 2. Install dependencies using npm or yarn:
